@@ -14,7 +14,7 @@ Project Overview
 How to Use This Project
 To use or reproduce this project, clone the repository from GitHub:
 
-git clone https://github.com/yourusername/shipment-tracking-analysis.git
+git clone https://github.com/Mahesh6221/shipment-tracking-analysis.git
 
 
 Tools and Environment
